@@ -1,0 +1,2 @@
+https://www.google.com/search?q=how+to+get+random+names+from+array+in+input+with+js&rlz=1C1CHBD_enAZ1032AZ1033&ei=Lox_Y9aoO72Ixc8PhsSf4A0&ved=0ahUKEwjW957Gj8f7AhU9RPEDHQbiB9wQ4dUDCA8&uact=5&oq=how+to+get+random+names+from+array+in+input+with+js&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAzIFCAAQogQyBQgAEKIEMgcIABAeEKIEMgUIABCiBDIFCAAQogQ6CggAEEcQ1gQQsAM6CgghEMMEEAoQoAE6CAghEMMEEKABSgQIQRgASgQIRhgAULoGWKcjYMAraANwAXgBgAGTAogBhhSSAQUwLjkuNJgBAKABAcgBCMABAQ&sclient=gws-wiz-serp
+https://www.folkstalk.com/2022/09/get-random-name-from-an-array-in-javascript-with-code-examples.html
